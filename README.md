@@ -1,6 +1,12 @@
 # Tchia Intro Skip
 
-Skip the startup video, opening logo cards, and the button press and flower-picking sequence. The game opens at the title menu. This mod targets **Tchia for Windows on Steam, build 14236148**.
+This mod skips Tchia’s intro sequence.\
+It skips the startup video, the opening logo cards, and the button prompt and flower-picking sequence.\
+As a result, the game goes directly from its usual startup black screen to the title menu without any input.
+
+Supports **Tchia for Windows on Steam, build 14236148**.
+
+[Tchia on Steam](https://store.steampowered.com/app/1496590/Tchia/)
 
 ## Install the main edition
 
